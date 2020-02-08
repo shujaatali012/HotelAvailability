@@ -6,6 +6,8 @@
 ## How To Run:
 * Download or clone repository
 * Required .Net Core framework is .Net core 2.2
+* Open solution in visual studio
+* restore packages and run
 * Check and change confurations in AppSetting
 
 ## Layers:
